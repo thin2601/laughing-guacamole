@@ -1,5 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<update>
-  <version>1.0.271225</version> 
-  <reason>fix bug, update some features</reason>
-</update>
+<Moon>
+  <Update>
+    <Version>1.0.271225</Version> 
+    <Reason>fix bug, update some features</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.27102025</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.14092025</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.03032025</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.17022025</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.07022025</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.22012025</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.21012025</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.18012025</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.13112024</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.18092024</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.16082024</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.17082024</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
+    <Version>1.0.16082024</Version> 
+    <Reason>None</Reason>
+  </Update>
+</Moon>
+
